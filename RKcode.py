@@ -1,5 +1,5 @@
 def myfunky():
-	print('shalom world')
+	print('shalom world.')
 
 if __name__ == '__main__':
         myfunky()
